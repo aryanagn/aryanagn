@@ -2,6 +2,8 @@
 
 **`Tech Artisan - An aspiring developer`** 
 
+🌐 Check out my **[Personal Website!](https://aryanagn.github.io/personal-website/)** 
+
 👋 Hello, I'm Aryan Agnihotri!
 
 I am a passionate computer science student at the University of British Columbia, with a deep interest in software development, data analysis (machine learning), and web development. As a driven individual with a knack for problem-solving, I bring a unique blend of creativity and technical expertise to every project.
