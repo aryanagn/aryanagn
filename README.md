@@ -1,13 +1,9 @@
-# Welcome to my portfolio! 💻 🧠 🤖
 
-**`Tech Artisan - An aspiring developer`** 
+Hello, I'm Aryan Agnihotri!
 
+I am a passionate computer science student at the University of British Columbia, with a deep interest in software development and data analysis (machine learning). As a driven individual with a knack for problem-solving, I bring a unique blend of creativity and technical expertise to every project.
 
-👋 Hello, I'm Aryan Agnihotri!
-
-I am a passionate computer science student at the University of British Columbia, with a deep interest in software development, data analysis (machine learning), and web development. As a driven individual with a knack for problem-solving, I bring a unique blend of creativity and technical expertise to every project.
-
-🚀 Having honed my skills through previous experiences as a Full Stack Developer intern and currently as a Software Developer Intern, I am well-versed in crafting robust and scalable solutions. My journey in the world of technology has led me to explore the dynamic intersections of software development, data analysis, and the ever-evolving landscape of web development.
+Having honed my skills through previous experiences as a Full Stack Developer intern and currently as a Software Engineering Intern (2 internships), I am well-versed in crafting robust and scalable solutions. My journey in the world of technology has led me to explore the dynamic intersections of software development, web development, and data analysis. 
 
 ---
 
@@ -42,10 +38,6 @@ I am a passionate computer science student at the University of British Columbia
 
  <summary><h3>Goals 🎯</h3></summary>
 
-   Eager computer science enthusiast actively seeking challenging and rewarding software engineering internships for 2024.
+   Eager computer science student actively seeking challenging and rewarding software engineering internships for 2025.
 
-### Socials 🌐
----
-[LinkedIn](https://www.linkedin.com/in/aryanagn/)
-[Github](https://github.com/aryanagn)
 
